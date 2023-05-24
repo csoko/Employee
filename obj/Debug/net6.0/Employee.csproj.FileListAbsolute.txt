@@ -1,0 +1,15 @@
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\bin\Debug\net6.0\Employee.exe
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\bin\Debug\net6.0\Employee.dll
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.dll
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Users\Monika\OneDrive\Docs\GitHub\Employee\Employee\obj\Debug\net6.0\ref\Employee.dll
